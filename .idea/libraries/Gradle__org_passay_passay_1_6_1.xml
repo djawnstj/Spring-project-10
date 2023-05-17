@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.passay:passay:1.6.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.passay" artifactId="passay" version="1.6.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/caches/modules-2/files-2.1/org.passay/passay/1.6.1/93a0f2dead27e6b76dcd5417fbd8431776755b8c/passay-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/caches/modules-2/files-2.1/org.passay/passay/1.6.1/f7713323ac65c88cc76ccf975f71840a5fa5c94e/passay-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

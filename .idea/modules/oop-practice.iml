@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="oop-practice" external.linked.project.path="$MODULE_DIR$/../../oop-practice" external.root.project.path="$MODULE_DIR$/../../oop-practice" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../oop-practice">
+      <excludeFolder url="file://$MODULE_DIR$/../../oop-practice/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../oop-practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../oop-practice/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
