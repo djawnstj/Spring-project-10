@@ -5,8 +5,9 @@
     <content url="file://$MODULE_DIR$/was-practice">
       <excludeFolder url="file://$MODULE_DIR$/was-practice/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/was-practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/was-practice/out" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-11" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

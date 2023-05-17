@@ -26,8 +26,9 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/was-practice" />
-        <option name="gradleHome" value="" />
         <option name="gradleJvm" value="19" />
         <option name="modules">
           <set>
