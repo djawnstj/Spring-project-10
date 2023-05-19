@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/mvc-practice" />
     <file type="web" url="file://$PROJECT_DIR$/oop-practice" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet" />
     <file type="web" url="file://$PROJECT_DIR$/was-practice" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="19" project-jdk-type="JavaSDK">

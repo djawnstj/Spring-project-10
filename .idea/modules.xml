@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/oop-practice.iml" filepath="$PROJECT_DIR$/.idea/modules/oop-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/oop-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oop-practice.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/oop-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/oop-practice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet.iml" filepath="$PROJECT_DIR$/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet.test.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/was-practice.iml" filepath="$PROJECT_DIR$/was-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/was-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/was-practice.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/was-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/was-practice.test.iml" />

@@ -9,6 +9,9 @@
       <module name="oop-practice" target="19" />
       <module name="oop-practice.main" target="19" />
       <module name="oop-practice.test" target="19" />
+      <module name="servlet" target="19" />
+      <module name="servlet.main" target="19" />
+      <module name="servlet.test" target="19" />
       <module name="was-practice" target="19" />
       <module name="was-practice.main" target="19" />
       <module name="was-practice.test" target="19" />
