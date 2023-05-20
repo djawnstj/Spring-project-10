@@ -3,6 +3,9 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="1_2_oop-practice" target="19" />
+      <module name="jdbc-practice" target="19" />
+      <module name="jdbc-practice.main" target="19" />
+      <module name="jdbc-practice.test" target="19" />
       <module name="mvc-practice" target="19" />
       <module name="mvc-practice.main" target="19" />
       <module name="mvc-practice.test" target="19" />

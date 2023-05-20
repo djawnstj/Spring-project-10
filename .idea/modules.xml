@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-project-10.iml" filepath="$PROJECT_DIR$/Spring-project-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-practice.iml" filepath="$PROJECT_DIR$/jdbc-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc-practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc-practice.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc-practice.iml" filepath="$PROJECT_DIR$/mvc-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-practice.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc-practice.test.iml" />
