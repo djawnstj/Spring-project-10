@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/front-controller-practice" />
     <file type="web" url="file://$PROJECT_DIR$/jdbc-practice" />
     <file type="web" url="file://$PROJECT_DIR$/mvc-practice" />
     <file type="web" url="file://$PROJECT_DIR$/oop-practice" />
+    <file type="web" url="file://$PROJECT_DIR$/reflection-practice" />
     <file type="web" url="file://$PROJECT_DIR$/servlet" />
     <file type="web" url="file://$PROJECT_DIR$/was-practice" />
   </component>

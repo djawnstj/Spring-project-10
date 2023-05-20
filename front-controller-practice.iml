@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="front-controller-practice" external.linked.project.path="$MODULE_DIR$/front-controller-practice" external.root.project.path="$MODULE_DIR$/front-controller-practice" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/front-controller-practice">
+      <sourceFolder url="file://$MODULE_DIR$/front-controller-practice/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/front-controller-practice/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/front-controller-practice/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/front-controller-practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/front-controller-practice/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
