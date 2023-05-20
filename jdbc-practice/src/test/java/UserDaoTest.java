@@ -1,4 +1,6 @@
-import org.assertj.core.api.Assertions;
+import org.example.ConnectionManager;
+import org.example.User;
+import org.example.UserDao;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.core.io.ClassPathResource;
@@ -22,9 +24,9 @@ public class UserDaoTest {
     public void createTest() throws SQLException {
         UserDao userDao = new UserDao();
 
-        userDao.create(new User("wizard", "password", "name", "email"));
+        userDao.createV2(new User("wizard", "password", "name", "email"));
 
-        User user = userDao.findByUserId("wizard");
+        User user = userDao.findByUserIdV2("wizard");
 
         assertThat(user).isEqualTo(new User("wizard", "password", "name", "email"));
     }
