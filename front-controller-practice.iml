@@ -3,8 +3,6 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/front-controller-practice">
-      <sourceFolder url="file://$MODULE_DIR$/front-controller-practice/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/front-controller-practice/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/front-controller-practice/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/front-controller-practice/build" />
       <excludeFolder url="file://$MODULE_DIR$/front-controller-practice/out" />
