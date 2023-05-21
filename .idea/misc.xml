@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/di-practice" />
     <file type="web" url="file://$PROJECT_DIR$/front-controller-practice" />
     <file type="web" url="file://$PROJECT_DIR$/jdbc-practice" />
     <file type="web" url="file://$PROJECT_DIR$/mvc-practice" />

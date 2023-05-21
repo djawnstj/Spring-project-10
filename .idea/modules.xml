@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-project-10.iml" filepath="$PROJECT_DIR$/Spring-project-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/di-practice.iml" filepath="$PROJECT_DIR$/di-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/di-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/di-practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/di-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/di-practice.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/front-controller-practice.iml" filepath="$PROJECT_DIR$/front-controller-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/front-controller-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/front-controller-practice.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/front-controller-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/front-controller-practice.test.iml" />

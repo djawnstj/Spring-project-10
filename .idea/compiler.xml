@@ -3,6 +3,9 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="1_2_oop-practice" target="19" />
+      <module name="di-practice" target="19" />
+      <module name="di-practice.main" target="19" />
+      <module name="di-practice.test" target="19" />
       <module name="front-controller-practice" target="19" />
       <module name="front-controller-practice.main" target="19" />
       <module name="front-controller-practice.test" target="19" />
