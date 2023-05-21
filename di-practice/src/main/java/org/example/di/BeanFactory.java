@@ -15,9 +15,12 @@ public class BeanFactory {
 
     private void initialize() {
         for (Class<?> clazz : preInstantiatedClazz) {
-            System.out.println("clazz: " + clazz.getSimpleName());
+            boolean b = Objects.nonNull(getBean(clazz));
+            System.out.println("clazz: " + clazz.getSimpleName() + ", " + b);
+            if (b) continue;
+
             Object instance = createInstance(clazz);
-            beans.put(clazz, instance);
+//            beans.put(clazz, instance);
         }
     }
 
@@ -31,7 +34,10 @@ public class BeanFactory {
         }
 
         try {
-            return constructor.newInstance(parameters.toArray());
+            Object instance = constructor.newInstance(parameters.toArray());
+            beans.put(clazz, instance);
+
+            return instance;
         } catch (InstantiationException | IllegalAccessException | InvocationTargetException e) {
             throw new RuntimeException(e);
         }
@@ -59,9 +65,5 @@ public class BeanFactory {
 
     public <T> T getBean(Class<T> requiredType) {
         return (T) beans.get(requiredType);
-    }
-
-    public int getSize() {
-        return beans.size();
     }
 }

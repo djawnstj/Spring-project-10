@@ -1,5 +1,6 @@
 package org.example.di;
 
+import javassist.SerialVersionUID;
 import org.assertj.core.api.Assertions;
 import org.example.annotation.Controller;
 import org.example.annotation.Service;
@@ -27,7 +28,7 @@ class BeanFactoryTest {
     @BeforeEach
     void setUp() {
         reflections = new Reflections("org.example");
-        Set<Class<?>> preInstantiatedClazz = getTypesAnnotatedWith(Controller.class, Service.class);
+        Set<Class<?>> preInstantiatedClazz = getTypesAnnotatedWith(Service.class, Controller.class);
 
         beanFactory = new BeanFactory(preInstantiatedClazz);
 
