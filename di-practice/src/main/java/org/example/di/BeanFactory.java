@@ -1,5 +1,8 @@
 package org.example.di;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.util.*;
@@ -20,7 +23,7 @@ public class BeanFactory {
             if (b) continue;
 
             Object instance = createInstance(clazz);
-//            beans.put(clazz, instance);
+            beans.put(clazz, instance);
         }
     }
 
@@ -34,10 +37,7 @@ public class BeanFactory {
         }
 
         try {
-            Object instance = constructor.newInstance(parameters.toArray());
-            beans.put(clazz, instance);
-
-            return instance;
+            return constructor.newInstance(parameters.toArray());
         } catch (InstantiationException | IllegalAccessException | InvocationTargetException e) {
             throw new RuntimeException(e);
         }
@@ -60,7 +60,10 @@ public class BeanFactory {
             return instanceBean;
         }
 
-        return createInstance(typeClass);
+        Object instance = createInstance(typeClass);
+        beans.put(typeClass, instance);
+
+        return instance;
     }
 
     public <T> T getBean(Class<T> requiredType) {
