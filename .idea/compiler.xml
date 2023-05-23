@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/Library/Android/sdk/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="project-board.main" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1_2_oop-practice" target="19" />
       <module name="di-practice" target="19" />
@@ -18,6 +27,9 @@
       <module name="oop-practice" target="19" />
       <module name="oop-practice.main" target="19" />
       <module name="oop-practice.test" target="19" />
+      <module name="project-board" target="17" />
+      <module name="project-board.main" target="17" />
+      <module name="project-board.test" target="17" />
       <module name="reflection-practice" target="19" />
       <module name="reflection-practice.main" target="19" />
       <module name="reflection-practice.test" target="19" />
