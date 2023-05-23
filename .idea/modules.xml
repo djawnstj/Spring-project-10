@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/oop-practice.iml" filepath="$PROJECT_DIR$/.idea/modules/oop-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/oop-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oop-practice.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/oop-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/oop-practice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-board/project-board.iml" filepath="$PROJECT_DIR$/project-board/project-board.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-board.main.iml" filepath="$PROJECT_DIR$/.idea/modules/project-board.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-board.test.iml" filepath="$PROJECT_DIR$/.idea/modules/project-board.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection-practice.iml" filepath="$PROJECT_DIR$/reflection-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflection-practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reflection-practice.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reflection-practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/reflection-practice.test.iml" />
